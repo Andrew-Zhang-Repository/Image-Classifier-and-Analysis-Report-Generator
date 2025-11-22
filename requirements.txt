@@ -1,0 +1,8 @@
+Name: ultralytics
+Version: 8.3.228
+
+Name: deepface
+Version: 0.0.95
+
+Name: python-docx
+Version: 1.2.0

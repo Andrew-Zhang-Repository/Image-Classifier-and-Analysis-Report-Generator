@@ -38,6 +38,8 @@ python main.py --mode classification --img Images/1.jpg --classification customC
 
 - On default models available from ultralytics will contain some descrepancies project is limited by this performance as I lack the tech to train my own models.
 
+- Images directory is where you can store all your inputs, some example ones are already present.
+
 ---
 
 #### Example Output Document
